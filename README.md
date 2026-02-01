@@ -65,20 +65,6 @@ Each metric is analyzed separately (Pack Views, Purchases, Conversion), with exp
 .Cross-group DiD effect
 
 
-### Insights and Conclusions
-
-This notebook represents a wip V0 causal analysis:
-
-Diff-in-Diff is implemented using mean comparisons
-No regression modeling
-No confidence intervals
-
-A future V1 version could include:
-Regression-based DiD
-Robustness checks
-
-
-
 
 # Note
 This is a V0 implementation with simplified Diff-in-Diff analysis. 
