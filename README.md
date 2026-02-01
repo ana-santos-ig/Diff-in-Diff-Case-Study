@@ -2,7 +2,7 @@
 ## Diff-in-Diff Case Study — First Purchase Discount
 
 Take-home case study analyzing the impact of a first-purchase discount on class pack performance using a Difference-in-Differences (DiD) causal inference approach.
-📌 Overview
+## 📌 Overview
 
 This project evaluates the causal impact of a 15% discount on first-time class pack purchases in a marketplace setting.
 The analysis compares Test vs Control groups across Pre and Post periods to isolate the incremental effect of the discount on the funnel.
@@ -16,7 +16,7 @@ Baseline comparability checks
 Temporal evolution
 Diff-in-Diff causal estimation
 
-🎯 Business Question
+## 🎯 Business Question
 Did offering a 15% discount to new users increase demand and improve funnel performance compared to a control group without discount?
 
 🔬 Experimental Structure
@@ -35,7 +35,7 @@ Purchases
 Conversion Rate
 
 
-📊 Types of Analysis Performed
+## 📊Types of Analysis Performed
 
 Data quality and experiment integrity checks
 Construction of derived metrics (e.g. conversion rate)
@@ -52,7 +52,7 @@ Conversion Rate — efficiency of the funnel
 
 Segmented analysis by price tier
 
-🧠 Methodology
+## 🧠 Methodology
 
 The causal effect is estimated using a Difference-in-Differences approach:
 The analysis is performed:
@@ -65,7 +65,7 @@ Each metric is analyzed separately (Pack Views, Purchases, Conversion), with exp
 .Cross-group DiD effect
 
 
-# Insights and Conclusions
+### Insights and Conclusions
 
 This notebook represents a wip V0 causal analysis:
 
