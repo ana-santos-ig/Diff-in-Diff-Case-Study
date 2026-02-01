@@ -9,12 +9,12 @@ The analysis compares Test vs Control groups across Pre and Post periods to isol
 
 The study follows a structured analytical workflow:
 
-Data validation
-Metric construction
-Exploratory analysis
-Baseline comparability checks
-Temporal evolution
-Diff-in-Diff causal estimation
+1.Data validation\
+2.Metric construction\
+3.Exploratory analysis\
+4.Baseline comparability checks\
+5.Temporal evolution\
+6.Diff-in-Diff causal estimation
 
 ## 🎯 Business Question
 Did offering a 15% discount to new users increase demand and improve funnel performance compared to a control group without discount?
